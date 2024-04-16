@@ -24,7 +24,5 @@ Skills: PHP/ Laravel / VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x01mehedi&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/0x01mehedi/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=0x01mehedi)  
 
