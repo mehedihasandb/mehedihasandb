@@ -1,4 +1,4 @@
-![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQGJecN8s0OFAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726250943329?e=1731542400&v=beta&t=-9OqripMcqsCQ-YNSaVi0mGNpLXC4v-Wwb22aNrk-J4)
+![Full Stack Developer](https://media.licdn.com/dms/image/v2/D4D16AQGJecN8s0OFAw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726250943329?e=2147483647&v=beta&t=oELGMMktjWOAdz6t-Otw8ofoc-M6c9i3JvuhFjU3uLQ)
 ### Hi there 👋, I'm Mehedi Hasan
 #### Full Stack Developer
 
